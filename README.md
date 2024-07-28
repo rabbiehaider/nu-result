@@ -1,4 +1,3 @@
-# collegewise-result.github.io
 View College-wise Result of National University Easily
 
 This git has been created to facilitate viewing of college-wise result of National University of Bangladesh. 
@@ -7,4 +6,3 @@ It's very hard to view college-wise result on The University's official webpage 
 Purpose of the git is to help student view college-wise result easily without memorizing sub/college codes.
 
 Please note that this git is unofficial and I am by no means affiliated with national university.
-I can be reached @ i.never.read.mails@gmail.com
